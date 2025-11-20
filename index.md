@@ -1,7 +1,9 @@
 ---
-layout : defalit
-title : 홈
-----
+layout: home
+title: "홈"
+---
 
-#환영합니다. 
-jekyll로 만든 테마입니다.
+# 내 블로그
+Jekyll 기반으로 GitHub Pages에서 동작합니다.
+
+최신 포스트 목록은 아래에 자동으로 표시됩니다.
