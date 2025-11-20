@@ -1,11 +1,7 @@
-title: "옥다애 블로그"
-description: "Jekyll 기반 GitHub Pages 블로그"
-theme: minima    # GitHub Pages에서 기본 지원하는 테마
-author: "DAAEOK"
+title: 내 블로그
+desc : jekyll로 만든 블로그
+theme: jekyll-theme-cayman
 
-markdown: kramdown
-highlighter: rouge
-
-plugins:
-  - jekyll-feed
+author : 고라파덕(이름)
+email : [feverableok@gmail.com](mailto:feverableok@gmail.com)
 
