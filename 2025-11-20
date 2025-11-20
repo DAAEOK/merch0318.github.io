@@ -1,15 +1,14 @@
-
 ---
-layout : default
-title
-date
-----
-안녕하세요
+layout: post
+title: "마크다운 사용법 메모"
+date: 2025-11-20
+---
+
+안녕하세요  
 호호
 
-1. 마크다운 사용법
+### 마크다운 사용법
 
-###코드 삽입도 쉬어요
-python
+```python
 def hello():
-print("hello world")
+    print("hello world")
